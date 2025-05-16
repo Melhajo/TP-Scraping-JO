@@ -1,0 +1,3162 @@
+[
+  {
+    "discipline": "Aeronautics",
+    "repartition": [
+      {
+        "pays": "Switzerland",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "discipline": "Alpine Skiing",
+    "repartition": [
+      {
+        "pays": "Austria",
+        "or": 40,
+        "argent": 44,
+        "bronze": 44
+      },
+      {
+        "pays": "Switzerland",
+        "or": 27,
+        "argent": 23,
+        "bronze": 25
+      },
+      {
+        "pays": "United States of America",
+        "or": 17,
+        "argent": 21,
+        "bronze": 10
+      },
+      {
+        "pays": "Germany",
+        "or": 17,
+        "argent": 14,
+        "bronze": 10
+      },
+      {
+        "pays": "France",
+        "or": 16,
+        "argent": 17,
+        "bronze": 18
+      },
+      {
+        "pays": "Italy",
+        "or": 14,
+        "argent": 11,
+        "bronze": 11
+      },
+      {
+        "pays": "Norway",
+        "or": 11,
+        "argent": 14,
+        "bronze": 15
+      },
+      {
+        "pays": "Sweden",
+        "or": 8,
+        "argent": 2,
+        "bronze": 9
+      }
+    ]
+  },
+  {
+    "discipline": "Alpinism",
+    "repartition": [
+      {
+        "pays": "Germany",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Great Britain / Australia",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Switzerland",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "discipline": "Archery",
+    "repartition": [
+      {
+        "pays": "South Korea",
+        "or": 32,
+        "argent": 10,
+        "bronze": 8
+      },
+      {
+        "pays": "United States of America",
+        "or": 14,
+        "argent": 12,
+        "bronze": 10
+      },
+      {
+        "pays": "Belgium",
+        "or": 11,
+        "argent": 7,
+        "bronze": 3
+      },
+      {
+        "pays": "France",
+        "or": 7,
+        "argent": 12,
+        "bronze": 8
+      },
+      {
+        "pays": "Italy",
+        "or": 2,
+        "argent": 3,
+        "bronze": 4
+      },
+      {
+        "pays": "Great Britain",
+        "or": 2,
+        "argent": 2,
+        "bronze": 5
+      },
+      {
+        "pays": "China",
+        "or": 1,
+        "argent": 7,
+        "bronze": 2
+      },
+      {
+        "pays": "Russia",
+        "or": 1,
+        "argent": 4,
+        "bronze": 6
+      }
+    ]
+  },
+  {
+    "discipline": "Athletics",
+    "repartition": [
+      {
+        "pays": "United States of America",
+        "or": 369,
+        "argent": 286,
+        "bronze": 229
+      },
+      {
+        "pays": "Russia",
+        "or": 89,
+        "argent": 87,
+        "bronze": 97
+      },
+      {
+        "pays": "Germany",
+        "or": 74,
+        "argent": 98,
+        "bronze": 99
+      },
+      {
+        "pays": "Great Britain",
+        "or": 58,
+        "argent": 91,
+        "bronze": 77
+      },
+      {
+        "pays": "Finland",
+        "or": 49,
+        "argent": 36,
+        "bronze": 31
+      },
+      {
+        "pays": "Kenya",
+        "or": 38,
+        "argent": 43,
+        "bronze": 36
+      },
+      {
+        "pays": "Poland",
+        "or": 29,
+        "argent": 20,
+        "bronze": 18
+      },
+      {
+        "pays": "Jamaica",
+        "or": 27,
+        "argent": 39,
+        "bronze": 27
+      }
+    ]
+  },
+  {
+    "discipline": "Badminton",
+    "repartition": [
+      {
+        "pays": "China",
+        "or": 22,
+        "argent": 15,
+        "bronze": 15
+      },
+      {
+        "pays": "Indonesia",
+        "or": 8,
+        "argent": 6,
+        "bronze": 8
+      },
+      {
+        "pays": "South Korea",
+        "or": 7,
+        "argent": 8,
+        "bronze": 7
+      },
+      {
+        "pays": "Denmark",
+        "or": 3,
+        "argent": 3,
+        "bronze": 4
+      },
+      {
+        "pays": "Chinese Taipei",
+        "or": 2,
+        "argent": 1,
+        "bronze": 0
+      },
+      {
+        "pays": "Japan",
+        "or": 1,
+        "argent": 1,
+        "bronze": 4
+      },
+      {
+        "pays": "Spain",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Malaysia",
+        "or": 0,
+        "argent": 6,
+        "bronze": 5
+      }
+    ]
+  },
+  {
+    "discipline": "Baseball",
+    "repartition": [
+      {
+        "pays": "Cuba",
+        "or": 3,
+        "argent": 2,
+        "bronze": 0
+      },
+      {
+        "pays": "Japan",
+        "or": 1,
+        "argent": 1,
+        "bronze": 2
+      },
+      {
+        "pays": "United States of America",
+        "or": 1,
+        "argent": 1,
+        "bronze": 2
+      },
+      {
+        "pays": "South Korea",
+        "or": 1,
+        "argent": 0,
+        "bronze": 1
+      },
+      {
+        "pays": "Australia",
+        "or": 0,
+        "argent": 1,
+        "bronze": 0
+      },
+      {
+        "pays": "Chinese Taipei",
+        "or": 0,
+        "argent": 1,
+        "bronze": 0
+      },
+      {
+        "pays": "Dominican Republic",
+        "or": 0,
+        "argent": 0,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "discipline": "Basketball",
+    "repartition": [
+      {
+        "pays": "United States of America",
+        "or": 28,
+        "argent": 2,
+        "bronze": 4
+      },
+      {
+        "pays": "Russia",
+        "or": 5,
+        "argent": 4,
+        "bronze": 7
+      },
+      {
+        "pays": "Yugoslavia",
+        "or": 1,
+        "argent": 5,
+        "bronze": 2
+      },
+      {
+        "pays": "Argentina",
+        "or": 1,
+        "argent": 0,
+        "bronze": 1
+      },
+      {
+        "pays": "Germany",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Latvia",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Netherlands",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "France",
+        "or": 0,
+        "argent": 7,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "discipline": "Beachvolleyball",
+    "repartition": [
+      {
+        "pays": "United States of America",
+        "or": 7,
+        "argent": 2,
+        "bronze": 2
+      },
+      {
+        "pays": "Brazil",
+        "or": 4,
+        "argent": 7,
+        "bronze": 3
+      },
+      {
+        "pays": "Germany",
+        "or": 2,
+        "argent": 1,
+        "bronze": 1
+      },
+      {
+        "pays": "Australia",
+        "or": 1,
+        "argent": 1,
+        "bronze": 1
+      },
+      {
+        "pays": "Norway",
+        "or": 1,
+        "argent": 0,
+        "bronze": 1
+      },
+      {
+        "pays": "Sweden",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Canada",
+        "or": 0,
+        "argent": 1,
+        "bronze": 1
+      },
+      {
+        "pays": "China",
+        "or": 0,
+        "argent": 1,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "discipline": "Biathlon",
+    "repartition": [
+      {
+        "pays": "German Democratic Republic",
+        "or": 24,
+        "argent": 27,
+        "bronze": 19
+      },
+      {
+        "pays": "Norway",
+        "or": 22,
+        "argent": 18,
+        "bronze": 15
+      },
+      {
+        "pays": "Russia",
+        "or": 20,
+        "argent": 12,
+        "bronze": 15
+      },
+      {
+        "pays": "France",
+        "or": 12,
+        "argent": 9,
+        "bronze": 12
+      },
+      {
+        "pays": "Sweden",
+        "or": 6,
+        "argent": 6,
+        "bronze": 6
+      },
+      {
+        "pays": "Belarus",
+        "or": 4,
+        "argent": 4,
+        "bronze": 3
+      },
+      {
+        "pays": "Slovakia",
+        "or": 3,
+        "argent": 3,
+        "bronze": 1
+      },
+      {
+        "pays": "Canada",
+        "or": 2,
+        "argent": 0,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "discipline": "Bobsledding",
+    "repartition": [
+      {
+        "pays": "Germany",
+        "or": 22,
+        "argent": 17,
+        "bronze": 12
+      },
+      {
+        "pays": "Switzerland",
+        "or": 10,
+        "argent": 10,
+        "bronze": 11
+      },
+      {
+        "pays": "United States of America",
+        "or": 8,
+        "argent": 11,
+        "bronze": 9
+      },
+      {
+        "pays": "Canada",
+        "or": 5,
+        "argent": 2,
+        "bronze": 4
+      },
+      {
+        "pays": "Italy",
+        "or": 4,
+        "argent": 4,
+        "bronze": 4
+      },
+      {
+        "pays": "Austria",
+        "or": 1,
+        "argent": 2,
+        "bronze": 0
+      },
+      {
+        "pays": "Great Britain",
+        "or": 1,
+        "argent": 1,
+        "bronze": 3
+      },
+      {
+        "pays": "Russia",
+        "or": 1,
+        "argent": 1,
+        "bronze": 3
+      }
+    ]
+  },
+  {
+    "discipline": "Boxing",
+    "repartition": [
+      {
+        "pays": "United States of America",
+        "or": 50,
+        "argent": 27,
+        "bronze": 41
+      },
+      {
+        "pays": "Cuba",
+        "or": 42,
+        "argent": 19,
+        "bronze": 19
+      },
+      {
+        "pays": "Russia",
+        "or": 24,
+        "argent": 25,
+        "bronze": 34
+      },
+      {
+        "pays": "Great Britain",
+        "or": 20,
+        "argent": 15,
+        "bronze": 28
+      },
+      {
+        "pays": "Italy",
+        "or": 15,
+        "argent": 15,
+        "bronze": 18
+      },
+      {
+        "pays": "Germany",
+        "or": 11,
+        "argent": 14,
+        "bronze": 24
+      },
+      {
+        "pays": "Hungary",
+        "or": 10,
+        "argent": 2,
+        "bronze": 8
+      },
+      {
+        "pays": "Uzbekistan",
+        "or": 10,
+        "argent": 2,
+        "bronze": 8
+      }
+    ]
+  },
+  {
+    "discipline": "Breaking",
+    "repartition": [
+      {
+        "pays": "Canada",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Japan",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "France",
+        "or": 0,
+        "argent": 1,
+        "bronze": 0
+      },
+      {
+        "pays": "Lithuania",
+        "or": 0,
+        "argent": 1,
+        "bronze": 0
+      },
+      {
+        "pays": "China",
+        "or": 0,
+        "argent": 0,
+        "bronze": 1
+      },
+      {
+        "pays": "United States of America",
+        "or": 0,
+        "argent": 0,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "discipline": "Canoe & Kayaking",
+    "repartition": [
+      {
+        "pays": "Germany",
+        "or": 56,
+        "argent": 39,
+        "bronze": 40
+      },
+      {
+        "pays": "Russia",
+        "or": 32,
+        "argent": 18,
+        "bronze": 16
+      },
+      {
+        "pays": "Hungary",
+        "or": 28,
+        "argent": 35,
+        "bronze": 30
+      },
+      {
+        "pays": "Sweden",
+        "or": 15,
+        "argent": 11,
+        "bronze": 4
+      },
+      {
+        "pays": "New Zealand",
+        "or": 14,
+        "argent": 3,
+        "bronze": 2
+      },
+      {
+        "pays": "Romania",
+        "or": 10,
+        "argent": 10,
+        "bronze": 14
+      },
+      {
+        "pays": "France",
+        "or": 9,
+        "argent": 11,
+        "bronze": 19
+      },
+      {
+        "pays": "Australia",
+        "or": 8,
+        "argent": 9,
+        "bronze": 15
+      }
+    ]
+  },
+  {
+    "discipline": "Cricket",
+    "repartition": [
+      {
+        "pays": "Great Britain",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "France",
+        "or": 0,
+        "argent": 1,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "discipline": "Crocket",
+    "repartition": [
+      {
+        "pays": "France",
+        "or": 3,
+        "argent": 2,
+        "bronze": 2
+      }
+    ]
+  },
+  {
+    "discipline": "Cross-Country Skiing",
+    "repartition": [
+      {
+        "pays": "Norway",
+        "or": 52,
+        "argent": 43,
+        "bronze": 34
+      },
+      {
+        "pays": "Russia",
+        "or": 42,
+        "argent": 34,
+        "bronze": 34
+      },
+      {
+        "pays": "Sweden",
+        "or": 32,
+        "argent": 27,
+        "bronze": 25
+      },
+      {
+        "pays": "Finland",
+        "or": 22,
+        "argent": 27,
+        "bronze": 37
+      },
+      {
+        "pays": "Italy",
+        "or": 9,
+        "argent": 14,
+        "bronze": 13
+      },
+      {
+        "pays": "German Democratic Republic",
+        "or": 5,
+        "argent": 11,
+        "bronze": 5
+      },
+      {
+        "pays": "Russian Olympic Commitee",
+        "or": 4,
+        "argent": 7,
+        "bronze": 8
+      },
+      {
+        "pays": "Estonia",
+        "or": 4,
+        "argent": 2,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "discipline": "Curling",
+    "repartition": [
+      {
+        "pays": "Canada",
+        "or": 6,
+        "argent": 3,
+        "bronze": 3
+      },
+      {
+        "pays": "Sweden",
+        "or": 4,
+        "argent": 3,
+        "bronze": 4
+      },
+      {
+        "pays": "Great Britain",
+        "or": 3,
+        "argent": 2,
+        "bronze": 1
+      },
+      {
+        "pays": "Switzerland",
+        "or": 1,
+        "argent": 3,
+        "bronze": 3
+      },
+      {
+        "pays": "Norway",
+        "or": 1,
+        "argent": 2,
+        "bronze": 2
+      },
+      {
+        "pays": "United States of America",
+        "or": 1,
+        "argent": 0,
+        "bronze": 1
+      },
+      {
+        "pays": "Italy",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Japan",
+        "or": 0,
+        "argent": 1,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "discipline": "Cycling",
+    "repartition": [
+      {
+        "pays": "France",
+        "or": 45,
+        "argent": 31,
+        "bronze": 32
+      },
+      {
+        "pays": "Great Britain",
+        "or": 42,
+        "argent": 43,
+        "bronze": 31
+      },
+      {
+        "pays": "Italy",
+        "or": 38,
+        "argent": 18,
+        "bronze": 13
+      },
+      {
+        "pays": "Germany",
+        "or": 26,
+        "argent": 32,
+        "bronze": 29
+      },
+      {
+        "pays": "Netherlands",
+        "or": 26,
+        "argent": 25,
+        "bronze": 17
+      },
+      {
+        "pays": "United States of America",
+        "or": 20,
+        "argent": 24,
+        "bronze": 22
+      },
+      {
+        "pays": "Australia",
+        "or": 18,
+        "argent": 21,
+        "bronze": 23
+      },
+      {
+        "pays": "Russia",
+        "or": 16,
+        "argent": 9,
+        "bronze": 18
+      }
+    ]
+  },
+  {
+    "discipline": "Diving",
+    "repartition": [
+      {
+        "pays": "China",
+        "or": 55,
+        "argent": 26,
+        "bronze": 11
+      },
+      {
+        "pays": "United States of America",
+        "or": 48,
+        "argent": 46,
+        "bronze": 45
+      },
+      {
+        "pays": "Russia",
+        "or": 8,
+        "argent": 14,
+        "bronze": 13
+      },
+      {
+        "pays": "Germany",
+        "or": 8,
+        "argent": 12,
+        "bronze": 15
+      },
+      {
+        "pays": "Sweden",
+        "or": 6,
+        "argent": 8,
+        "bronze": 7
+      },
+      {
+        "pays": "Italy",
+        "or": 3,
+        "argent": 5,
+        "bronze": 3
+      },
+      {
+        "pays": "Australia",
+        "or": 3,
+        "argent": 4,
+        "bronze": 8
+      },
+      {
+        "pays": "Great Britain",
+        "or": 2,
+        "argent": 4,
+        "bronze": 12
+      }
+    ]
+  },
+  {
+    "discipline": "Equestrian",
+    "repartition": [
+      {
+        "pays": "Germany",
+        "or": 48,
+        "argent": 25,
+        "bronze": 27
+      },
+      {
+        "pays": "Sweden",
+        "or": 18,
+        "argent": 13,
+        "bronze": 14
+      },
+      {
+        "pays": "Great Britain",
+        "or": 15,
+        "argent": 12,
+        "bronze": 18
+      },
+      {
+        "pays": "France",
+        "or": 14,
+        "argent": 14,
+        "bronze": 12
+      },
+      {
+        "pays": "United States of America",
+        "or": 11,
+        "argent": 24,
+        "bronze": 20
+      },
+      {
+        "pays": "Netherlands",
+        "or": 10,
+        "argent": 13,
+        "bronze": 5
+      },
+      {
+        "pays": "Italy",
+        "or": 7,
+        "argent": 9,
+        "bronze": 7
+      },
+      {
+        "pays": "Australia",
+        "or": 6,
+        "argent": 5,
+        "bronze": 4
+      }
+    ]
+  },
+  {
+    "discipline": "Fencing",
+    "repartition": [
+      {
+        "pays": "Italy",
+        "or": 50,
+        "argent": 50,
+        "bronze": 37
+      },
+      {
+        "pays": "France",
+        "or": 48,
+        "argent": 48,
+        "bronze": 39
+      },
+      {
+        "pays": "Hungary",
+        "or": 39,
+        "argent": 25,
+        "bronze": 30
+      },
+      {
+        "pays": "Russia",
+        "or": 32,
+        "argent": 22,
+        "bronze": 26
+      },
+      {
+        "pays": "Germany",
+        "or": 15,
+        "argent": 19,
+        "bronze": 12
+      },
+      {
+        "pays": "South Korea",
+        "or": 7,
+        "argent": 4,
+        "bronze": 8
+      },
+      {
+        "pays": "United States of America",
+        "or": 6,
+        "argent": 12,
+        "bronze": 19
+      },
+      {
+        "pays": "China",
+        "or": 5,
+        "argent": 7,
+        "bronze": 3
+      }
+    ]
+  },
+  {
+    "discipline": "Figure Skating",
+    "repartition": [
+      {
+        "pays": "Russia",
+        "or": 28,
+        "argent": 19,
+        "bronze": 9
+      },
+      {
+        "pays": "United States of America",
+        "or": 17,
+        "argent": 16,
+        "bronze": 21
+      },
+      {
+        "pays": "Federal Republic of Germany",
+        "or": 8,
+        "argent": 7,
+        "bronze": 9
+      },
+      {
+        "pays": "Austria",
+        "or": 7,
+        "argent": 9,
+        "bronze": 4
+      },
+      {
+        "pays": "Canada",
+        "or": 6,
+        "argent": 11,
+        "bronze": 12
+      },
+      {
+        "pays": "Great Britain",
+        "or": 5,
+        "argent": 3,
+        "bronze": 7
+      },
+      {
+        "pays": "Sweden",
+        "or": 5,
+        "argent": 3,
+        "bronze": 2
+      },
+      {
+        "pays": "France",
+        "or": 4,
+        "argent": 3,
+        "bronze": 7
+      }
+    ]
+  },
+  {
+    "discipline": "Football",
+    "repartition": [
+      {
+        "pays": "United States of America",
+        "or": 5,
+        "argent": 2,
+        "bronze": 2
+      },
+      {
+        "pays": "Hungary",
+        "or": 3,
+        "argent": 1,
+        "bronze": 1
+      },
+      {
+        "pays": "Great Britain",
+        "or": 3,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Brazil",
+        "or": 2,
+        "argent": 6,
+        "bronze": 2
+      },
+      {
+        "pays": "Spain",
+        "or": 2,
+        "argent": 3,
+        "bronze": 0
+      },
+      {
+        "pays": "Germany",
+        "or": 2,
+        "argent": 2,
+        "bronze": 7
+      },
+      {
+        "pays": "Argentina",
+        "or": 2,
+        "argent": 2,
+        "bronze": 0
+      },
+      {
+        "pays": "Russia",
+        "or": 2,
+        "argent": 0,
+        "bronze": 3
+      }
+    ]
+  },
+  {
+    "discipline": "Freestyle Skiing",
+    "repartition": [
+      {
+        "pays": "Canada",
+        "or": 12,
+        "argent": 12,
+        "bronze": 6
+      },
+      {
+        "pays": "United States of America",
+        "or": 11,
+        "argent": 13,
+        "bronze": 9
+      },
+      {
+        "pays": "Switzerland",
+        "or": 6,
+        "argent": 3,
+        "bronze": 4
+      },
+      {
+        "pays": "China",
+        "or": 5,
+        "argent": 8,
+        "bronze": 4
+      },
+      {
+        "pays": "Australia",
+        "or": 4,
+        "argent": 3,
+        "bronze": 2
+      },
+      {
+        "pays": "Norway",
+        "or": 4,
+        "argent": 2,
+        "bronze": 4
+      },
+      {
+        "pays": "Belarus",
+        "or": 4,
+        "argent": 2,
+        "bronze": 2
+      },
+      {
+        "pays": "France",
+        "or": 3,
+        "argent": 6,
+        "bronze": 6
+      }
+    ]
+  },
+  {
+    "discipline": "Golf",
+    "repartition": [
+      {
+        "pays": "United States of America",
+        "or": 6,
+        "argent": 3,
+        "bronze": 5
+      },
+      {
+        "pays": "Great Britain",
+        "or": 1,
+        "argent": 2,
+        "bronze": 1
+      },
+      {
+        "pays": "New Zealand",
+        "or": 1,
+        "argent": 1,
+        "bronze": 1
+      },
+      {
+        "pays": "Canada",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "South Korea",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Japan",
+        "or": 0,
+        "argent": 1,
+        "bronze": 1
+      },
+      {
+        "pays": "Germany",
+        "or": 0,
+        "argent": 1,
+        "bronze": 0
+      },
+      {
+        "pays": "Slovakia",
+        "or": 0,
+        "argent": 1,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "discipline": "Gymnastics",
+    "repartition": [
+      {
+        "pays": "Russia",
+        "or": 91,
+        "argent": 87,
+        "bronze": 66
+      },
+      {
+        "pays": "United States of America",
+        "or": 40,
+        "argent": 44,
+        "bronze": 42
+      },
+      {
+        "pays": "Japan",
+        "or": 36,
+        "argent": 34,
+        "bronze": 37
+      },
+      {
+        "pays": "China",
+        "or": 31,
+        "argent": 26,
+        "bronze": 21
+      },
+      {
+        "pays": "Romania",
+        "or": 25,
+        "argent": 20,
+        "bronze": 27
+      },
+      {
+        "pays": "Germany",
+        "or": 20,
+        "argent": 26,
+        "bronze": 33
+      },
+      {
+        "pays": "Switzerland",
+        "or": 16,
+        "argent": 19,
+        "bronze": 14
+      },
+      {
+        "pays": "Hungary",
+        "or": 15,
+        "argent": 12,
+        "bronze": 14
+      }
+    ]
+  },
+  {
+    "discipline": "Handball",
+    "repartition": [
+      {
+        "pays": "Russia",
+        "or": 7,
+        "argent": 2,
+        "bronze": 3
+      },
+      {
+        "pays": "Denmark",
+        "or": 5,
+        "argent": 1,
+        "bronze": 1
+      },
+      {
+        "pays": "France",
+        "or": 4,
+        "argent": 3,
+        "bronze": 1
+      },
+      {
+        "pays": "Norway",
+        "or": 3,
+        "argent": 2,
+        "bronze": 3
+      },
+      {
+        "pays": "Yugoslavia",
+        "or": 3,
+        "argent": 1,
+        "bronze": 1
+      },
+      {
+        "pays": "German Democratic Republic",
+        "or": 2,
+        "argent": 4,
+        "bronze": 2
+      },
+      {
+        "pays": "South Korea",
+        "or": 2,
+        "argent": 4,
+        "bronze": 1
+      },
+      {
+        "pays": "Croatia",
+        "or": 2,
+        "argent": 0,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "discipline": "Hockey",
+    "repartition": [
+      {
+        "pays": "Netherlands",
+        "or": 8,
+        "argent": 6,
+        "bronze": 6
+      },
+      {
+        "pays": "India",
+        "or": 8,
+        "argent": 1,
+        "bronze": 4
+      },
+      {
+        "pays": "Germany",
+        "or": 5,
+        "argent": 6,
+        "bronze": 5
+      },
+      {
+        "pays": "Australia",
+        "or": 4,
+        "argent": 4,
+        "bronze": 5
+      },
+      {
+        "pays": "Great Britain",
+        "or": 4,
+        "argent": 2,
+        "bronze": 7
+      },
+      {
+        "pays": "Pakistan",
+        "or": 3,
+        "argent": 3,
+        "bronze": 2
+      },
+      {
+        "pays": "Argentina",
+        "or": 1,
+        "argent": 3,
+        "bronze": 3
+      },
+      {
+        "pays": "Spain",
+        "or": 1,
+        "argent": 3,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "discipline": "Ice Hockey",
+    "repartition": [
+      {
+        "pays": "Canada",
+        "or": 14,
+        "argent": 6,
+        "bronze": 3
+      },
+      {
+        "pays": "Russia",
+        "or": 8,
+        "argent": 2,
+        "bronze": 2
+      },
+      {
+        "pays": "United States of America",
+        "or": 4,
+        "argent": 12,
+        "bronze": 2
+      },
+      {
+        "pays": "Sweden",
+        "or": 2,
+        "argent": 4,
+        "bronze": 5
+      },
+      {
+        "pays": "Finland",
+        "or": 1,
+        "argent": 2,
+        "bronze": 8
+      },
+      {
+        "pays": "Russian Olympic Commitee",
+        "or": 1,
+        "argent": 1,
+        "bronze": 0
+      },
+      {
+        "pays": "Czech Republic",
+        "or": 1,
+        "argent": 0,
+        "bronze": 1
+      },
+      {
+        "pays": "Great Britain",
+        "or": 1,
+        "argent": 0,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "discipline": "Jeu de Paume",
+    "repartition": [
+      {
+        "pays": "United States of America",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Great Britain",
+        "or": 0,
+        "argent": 1,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "discipline": "Judo",
+    "repartition": [
+      {
+        "pays": "Japan",
+        "or": 51,
+        "argent": 23,
+        "bronze": 30
+      },
+      {
+        "pays": "France",
+        "or": 18,
+        "argent": 15,
+        "bronze": 34
+      },
+      {
+        "pays": "Russia",
+        "or": 12,
+        "argent": 9,
+        "bronze": 22
+      },
+      {
+        "pays": "South Korea",
+        "or": 11,
+        "argent": 19,
+        "bronze": 21
+      },
+      {
+        "pays": "China",
+        "or": 8,
+        "argent": 3,
+        "bronze": 12
+      },
+      {
+        "pays": "Cuba",
+        "or": 6,
+        "argent": 15,
+        "bronze": 16
+      },
+      {
+        "pays": "Germany",
+        "or": 5,
+        "argent": 11,
+        "bronze": 25
+      },
+      {
+        "pays": "Georgia",
+        "or": 5,
+        "argent": 7,
+        "bronze": 3
+      }
+    ]
+  },
+  {
+    "discipline": "Karate",
+    "repartition": [
+      {
+        "pays": "Japan",
+        "or": 1,
+        "argent": 1,
+        "bronze": 1
+      },
+      {
+        "pays": "Spain",
+        "or": 1,
+        "argent": 1,
+        "bronze": 0
+      },
+      {
+        "pays": "Egypt",
+        "or": 1,
+        "argent": 0,
+        "bronze": 1
+      },
+      {
+        "pays": "Italy",
+        "or": 1,
+        "argent": 0,
+        "bronze": 1
+      },
+      {
+        "pays": "Bulgaria",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "France",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Iran",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Serbia",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "discipline": "Lacrosse",
+    "repartition": [
+      {
+        "pays": "Canada",
+        "or": 2,
+        "argent": 0,
+        "bronze": 1
+      },
+      {
+        "pays": "Great Britain",
+        "or": 0,
+        "argent": 1,
+        "bronze": 0
+      },
+      {
+        "pays": "United States of America",
+        "or": 0,
+        "argent": 1,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "discipline": "Luge",
+    "repartition": [
+      {
+        "pays": "Germany",
+        "or": 38,
+        "argent": 26,
+        "bronze": 23
+      },
+      {
+        "pays": "Italy",
+        "or": 7,
+        "argent": 4,
+        "bronze": 7
+      },
+      {
+        "pays": "Austria",
+        "or": 6,
+        "argent": 10,
+        "bronze": 9
+      },
+      {
+        "pays": "Russia",
+        "or": 1,
+        "argent": 5,
+        "bronze": 3
+      },
+      {
+        "pays": "United States of America",
+        "or": 0,
+        "argent": 3,
+        "bronze": 3
+      },
+      {
+        "pays": "Latvia",
+        "or": 0,
+        "argent": 1,
+        "bronze": 4
+      },
+      {
+        "pays": "Canada",
+        "or": 0,
+        "argent": 1,
+        "bronze": 1
+      },
+      {
+        "pays": "Russian Olympic Commitee",
+        "or": 0,
+        "argent": 0,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "discipline": "Modern Pentathlon",
+    "repartition": [
+      {
+        "pays": "Hungary",
+        "or": 10,
+        "argent": 8,
+        "bronze": 6
+      },
+      {
+        "pays": "Russia",
+        "or": 9,
+        "argent": 7,
+        "bronze": 6
+      },
+      {
+        "pays": "Sweden",
+        "or": 9,
+        "argent": 7,
+        "bronze": 5
+      },
+      {
+        "pays": "Great Britain",
+        "or": 4,
+        "argent": 2,
+        "bronze": 3
+      },
+      {
+        "pays": "Poland",
+        "or": 3,
+        "argent": 0,
+        "bronze": 1
+      },
+      {
+        "pays": "Italy",
+        "or": 2,
+        "argent": 2,
+        "bronze": 4
+      },
+      {
+        "pays": "Germany",
+        "or": 2,
+        "argent": 0,
+        "bronze": 1
+      },
+      {
+        "pays": "Lithuania",
+        "or": 1,
+        "argent": 3,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "discipline": "Motorboating",
+    "repartition": [
+      {
+        "pays": "Great Britain",
+        "or": 2,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "France",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "discipline": "Nordic Combined",
+    "repartition": [
+      {
+        "pays": "Norway",
+        "or": 15,
+        "argent": 12,
+        "bronze": 8
+      },
+      {
+        "pays": "Germany",
+        "or": 12,
+        "argent": 7,
+        "bronze": 9
+      },
+      {
+        "pays": "Finland",
+        "or": 4,
+        "argent": 8,
+        "bronze": 2
+      },
+      {
+        "pays": "Austria",
+        "or": 3,
+        "argent": 2,
+        "bronze": 11
+      },
+      {
+        "pays": "Japan",
+        "or": 2,
+        "argent": 3,
+        "bronze": 2
+      },
+      {
+        "pays": "France",
+        "or": 2,
+        "argent": 1,
+        "bronze": 1
+      },
+      {
+        "pays": "United States of America",
+        "or": 1,
+        "argent": 3,
+        "bronze": 0
+      },
+      {
+        "pays": "Switzerland",
+        "or": 1,
+        "argent": 2,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "discipline": "Pelota",
+    "repartition": [
+      {
+        "pays": "Spain",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "discipline": "Polo",
+    "repartition": [
+      {
+        "pays": "Great Britain",
+        "or": 2,
+        "argent": 2,
+        "bronze": 2
+      },
+      {
+        "pays": "Argentina",
+        "or": 2,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "United States of America / Great Britain",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "United States of America",
+        "or": 0,
+        "argent": 1,
+        "bronze": 1
+      },
+      {
+        "pays": "Great Britain / France / United States of America",
+        "or": 0,
+        "argent": 1,
+        "bronze": 0
+      },
+      {
+        "pays": "Spain",
+        "or": 0,
+        "argent": 1,
+        "bronze": 0
+      },
+      {
+        "pays": "France / Great Britain",
+        "or": 0,
+        "argent": 0,
+        "bronze": 1
+      },
+      {
+        "pays": "Mexico",
+        "or": 0,
+        "argent": 0,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "discipline": "Rackets",
+    "repartition": [
+      {
+        "pays": "Great Britain",
+        "or": 2,
+        "argent": 2,
+        "bronze": 3
+      }
+    ]
+  },
+  {
+    "discipline": "Rhythmic Gymnastics",
+    "repartition": [
+      {
+        "pays": "Russia",
+        "or": 12,
+        "argent": 4,
+        "bronze": 4
+      },
+      {
+        "pays": "Bulgaria",
+        "or": 1,
+        "argent": 3,
+        "bronze": 2
+      },
+      {
+        "pays": "Spain",
+        "or": 1,
+        "argent": 2,
+        "bronze": 0
+      },
+      {
+        "pays": "China",
+        "or": 1,
+        "argent": 1,
+        "bronze": 0
+      },
+      {
+        "pays": "Israel",
+        "or": 1,
+        "argent": 1,
+        "bronze": 0
+      },
+      {
+        "pays": "Ukraine",
+        "or": 1,
+        "argent": 0,
+        "bronze": 4
+      },
+      {
+        "pays": "Federal Republic of Germany",
+        "or": 1,
+        "argent": 0,
+        "bronze": 1
+      },
+      {
+        "pays": "Canada",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "discipline": "Roque",
+    "repartition": [
+      {
+        "pays": "United States of America",
+        "or": 1,
+        "argent": 1,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "discipline": "Rowing",
+    "repartition": [
+      {
+        "pays": "Germany",
+        "or": 65,
+        "argent": 31,
+        "bronze": 30
+      },
+      {
+        "pays": "United States of America",
+        "or": 34,
+        "argent": 32,
+        "bronze": 25
+      },
+      {
+        "pays": "Great Britain",
+        "or": 34,
+        "argent": 27,
+        "bronze": 17
+      },
+      {
+        "pays": "Romania",
+        "or": 22,
+        "argent": 15,
+        "bronze": 9
+      },
+      {
+        "pays": "Italy",
+        "or": 15,
+        "argent": 17,
+        "bronze": 17
+      },
+      {
+        "pays": "New Zealand",
+        "or": 15,
+        "argent": 7,
+        "bronze": 11
+      },
+      {
+        "pays": "Russia",
+        "or": 13,
+        "argent": 20,
+        "bronze": 14
+      },
+      {
+        "pays": "Australia",
+        "or": 13,
+        "argent": 15,
+        "bronze": 17
+      }
+    ]
+  },
+  {
+    "discipline": "Rugby",
+    "repartition": [
+      {
+        "pays": "France",
+        "or": 2,
+        "argent": 3,
+        "bronze": 0
+      },
+      {
+        "pays": "New Zealand",
+        "or": 2,
+        "argent": 2,
+        "bronze": 0
+      },
+      {
+        "pays": "Fiji",
+        "or": 2,
+        "argent": 1,
+        "bronze": 1
+      },
+      {
+        "pays": "United States of America",
+        "or": 2,
+        "argent": 0,
+        "bronze": 1
+      },
+      {
+        "pays": "Australia",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Australia / New Zealand (Australasia)",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Great Britain",
+        "or": 0,
+        "argent": 2,
+        "bronze": 1
+      },
+      {
+        "pays": "Canada",
+        "or": 0,
+        "argent": 1,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "discipline": "Sailing",
+    "repartition": [
+      {
+        "pays": "Great Britain",
+        "or": 31,
+        "argent": 21,
+        "bronze": 13
+      },
+      {
+        "pays": "United States of America",
+        "or": 19,
+        "argent": 23,
+        "bronze": 20
+      },
+      {
+        "pays": "Norway",
+        "or": 17,
+        "argent": 11,
+        "bronze": 5
+      },
+      {
+        "pays": "France",
+        "or": 15,
+        "argent": 15,
+        "bronze": 21
+      },
+      {
+        "pays": "Australia",
+        "or": 14,
+        "argent": 9,
+        "bronze": 8
+      },
+      {
+        "pays": "Spain",
+        "or": 14,
+        "argent": 5,
+        "bronze": 3
+      },
+      {
+        "pays": "Denmark",
+        "or": 13,
+        "argent": 10,
+        "bronze": 9
+      },
+      {
+        "pays": "Sweden",
+        "or": 10,
+        "argent": 15,
+        "bronze": 14
+      }
+    ]
+  },
+  {
+    "discipline": "Shooting",
+    "repartition": [
+      {
+        "pays": "United States of America",
+        "or": 58,
+        "argent": 34,
+        "bronze": 29
+      },
+      {
+        "pays": "China",
+        "or": 31,
+        "argent": 18,
+        "bronze": 28
+      },
+      {
+        "pays": "Russia",
+        "or": 29,
+        "argent": 31,
+        "bronze": 30
+      },
+      {
+        "pays": "Germany",
+        "or": 18,
+        "argent": 21,
+        "bronze": 14
+      },
+      {
+        "pays": "Italy",
+        "or": 17,
+        "argent": 19,
+        "bronze": 12
+      },
+      {
+        "pays": "Great Britain",
+        "or": 16,
+        "argent": 16,
+        "bronze": 21
+      },
+      {
+        "pays": "Sweden",
+        "or": 15,
+        "argent": 26,
+        "bronze": 19
+      },
+      {
+        "pays": "France",
+        "or": 13,
+        "argent": 17,
+        "bronze": 14
+      }
+    ]
+  },
+  {
+    "discipline": "Short Track",
+    "repartition": [
+      {
+        "pays": "South Korea",
+        "or": 26,
+        "argent": 16,
+        "bronze": 11
+      },
+      {
+        "pays": "China",
+        "or": 12,
+        "argent": 16,
+        "bronze": 9
+      },
+      {
+        "pays": "Canada",
+        "or": 10,
+        "argent": 13,
+        "bronze": 14
+      },
+      {
+        "pays": "United States of America",
+        "or": 4,
+        "argent": 7,
+        "bronze": 9
+      },
+      {
+        "pays": "Italy",
+        "or": 3,
+        "argent": 6,
+        "bronze": 6
+      },
+      {
+        "pays": "Netherlands",
+        "or": 3,
+        "argent": 3,
+        "bronze": 3
+      },
+      {
+        "pays": "Russia",
+        "or": 3,
+        "argent": 1,
+        "bronze": 2
+      },
+      {
+        "pays": "Hungary",
+        "or": 2,
+        "argent": 0,
+        "bronze": 2
+      }
+    ]
+  },
+  {
+    "discipline": "Skateboarding",
+    "repartition": [
+      {
+        "pays": "Japan",
+        "or": 5,
+        "argent": 3,
+        "bronze": 1
+      },
+      {
+        "pays": "Australia",
+        "or": 3,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Brazil",
+        "or": 0,
+        "argent": 3,
+        "bronze": 2
+      },
+      {
+        "pays": "United States of America",
+        "or": 0,
+        "argent": 2,
+        "bronze": 3
+      },
+      {
+        "pays": "Great Britain",
+        "or": 0,
+        "argent": 0,
+        "bronze": 2
+      }
+    ]
+  },
+  {
+    "discipline": "Skeleton",
+    "repartition": [
+      {
+        "pays": "United States of America",
+        "or": 3,
+        "argent": 4,
+        "bronze": 1
+      },
+      {
+        "pays": "Great Britain",
+        "or": 3,
+        "argent": 1,
+        "bronze": 5
+      },
+      {
+        "pays": "Germany",
+        "or": 2,
+        "argent": 3,
+        "bronze": 1
+      },
+      {
+        "pays": "Canada",
+        "or": 2,
+        "argent": 1,
+        "bronze": 1
+      },
+      {
+        "pays": "Russia",
+        "or": 1,
+        "argent": 0,
+        "bronze": 2
+      },
+      {
+        "pays": "Switzerland",
+        "or": 1,
+        "argent": 0,
+        "bronze": 2
+      },
+      {
+        "pays": "Italy",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "South Korea",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "discipline": "Ski Jumping",
+    "repartition": [
+      {
+        "pays": "Norway",
+        "or": 12,
+        "argent": 10,
+        "bronze": 14
+      },
+      {
+        "pays": "Finland",
+        "or": 10,
+        "argent": 8,
+        "bronze": 4
+      },
+      {
+        "pays": "Germany",
+        "or": 9,
+        "argent": 10,
+        "bronze": 6
+      },
+      {
+        "pays": "Austria",
+        "or": 7,
+        "argent": 10,
+        "bronze": 10
+      },
+      {
+        "pays": "Japan",
+        "or": 4,
+        "argent": 6,
+        "bronze": 4
+      },
+      {
+        "pays": "Poland",
+        "or": 4,
+        "argent": 3,
+        "bronze": 3
+      },
+      {
+        "pays": "Switzerland",
+        "or": 4,
+        "argent": 1,
+        "bronze": 0
+      },
+      {
+        "pays": "Slovenia",
+        "or": 2,
+        "argent": 2,
+        "bronze": 3
+      }
+    ]
+  },
+  {
+    "discipline": "Snowboard",
+    "repartition": [
+      {
+        "pays": "United States of America",
+        "or": 17,
+        "argent": 8,
+        "bronze": 10
+      },
+      {
+        "pays": "Switzerland",
+        "or": 8,
+        "argent": 2,
+        "bronze": 4
+      },
+      {
+        "pays": "Canada",
+        "or": 5,
+        "argent": 5,
+        "bronze": 7
+      },
+      {
+        "pays": "Austria",
+        "or": 5,
+        "argent": 2,
+        "bronze": 4
+      },
+      {
+        "pays": "France",
+        "or": 4,
+        "argent": 5,
+        "bronze": 4
+      },
+      {
+        "pays": "Czech Republic",
+        "or": 3,
+        "argent": 0,
+        "bronze": 1
+      },
+      {
+        "pays": "Russia",
+        "or": 2,
+        "argent": 2,
+        "bronze": 1
+      },
+      {
+        "pays": "Germany",
+        "or": 1,
+        "argent": 4,
+        "bronze": 2
+      }
+    ]
+  },
+  {
+    "discipline": "Softball",
+    "repartition": [
+      {
+        "pays": "United States of America",
+        "or": 3,
+        "argent": 2,
+        "bronze": 0
+      },
+      {
+        "pays": "Japan",
+        "or": 2,
+        "argent": 1,
+        "bronze": 1
+      },
+      {
+        "pays": "Australia",
+        "or": 0,
+        "argent": 1,
+        "bronze": 3
+      },
+      {
+        "pays": "China",
+        "or": 0,
+        "argent": 1,
+        "bronze": 0
+      },
+      {
+        "pays": "Canada",
+        "or": 0,
+        "argent": 0,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "discipline": "Speed Skating",
+    "repartition": [
+      {
+        "pays": "Netherlands",
+        "or": 48,
+        "argent": 44,
+        "bronze": 41
+      },
+      {
+        "pays": "United States of America",
+        "or": 30,
+        "argent": 22,
+        "bronze": 19
+      },
+      {
+        "pays": "Norway",
+        "or": 28,
+        "argent": 29,
+        "bronze": 30
+      },
+      {
+        "pays": "Russia",
+        "or": 27,
+        "argent": 22,
+        "bronze": 24
+      },
+      {
+        "pays": "German Democratic Republic",
+        "or": 25,
+        "argent": 28,
+        "bronze": 19
+      },
+      {
+        "pays": "Canada",
+        "or": 10,
+        "argent": 16,
+        "bronze": 16
+      },
+      {
+        "pays": "Sweden",
+        "or": 9,
+        "argent": 4,
+        "bronze": 5
+      },
+      {
+        "pays": "Finland",
+        "or": 7,
+        "argent": 8,
+        "bronze": 9
+      }
+    ]
+  },
+  {
+    "discipline": "Sport climbing",
+    "repartition": [
+      {
+        "pays": "Slovenia",
+        "or": 2,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Poland",
+        "or": 1,
+        "argent": 0,
+        "bronze": 1
+      },
+      {
+        "pays": "Great Britain",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Indonesia",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Spain",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Japan",
+        "or": 0,
+        "argent": 2,
+        "bronze": 1
+      },
+      {
+        "pays": "United States of America",
+        "or": 0,
+        "argent": 2,
+        "bronze": 1
+      },
+      {
+        "pays": "China",
+        "or": 0,
+        "argent": 2,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "discipline": "Surfing",
+    "repartition": [
+      {
+        "pays": "United States of America",
+        "or": 2,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Brazil",
+        "or": 1,
+        "argent": 1,
+        "bronze": 1
+      },
+      {
+        "pays": "France",
+        "or": 1,
+        "argent": 0,
+        "bronze": 1
+      },
+      {
+        "pays": "Australia",
+        "or": 0,
+        "argent": 1,
+        "bronze": 1
+      },
+      {
+        "pays": "Japan",
+        "or": 0,
+        "argent": 1,
+        "bronze": 1
+      },
+      {
+        "pays": "South Africa",
+        "or": 0,
+        "argent": 1,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "discipline": "Swimming",
+    "repartition": [
+      {
+        "pays": "United States of America",
+        "or": 266,
+        "argent": 195,
+        "bronze": 151
+      },
+      {
+        "pays": "Australia",
+        "or": 76,
+        "argent": 76,
+        "bronze": 77
+      },
+      {
+        "pays": "Germany",
+        "or": 57,
+        "argent": 63,
+        "bronze": 74
+      },
+      {
+        "pays": "Hungary",
+        "or": 33,
+        "argent": 29,
+        "bronze": 21
+      },
+      {
+        "pays": "Japan",
+        "or": 24,
+        "argent": 28,
+        "bronze": 32
+      },
+      {
+        "pays": "Russia",
+        "or": 23,
+        "argent": 33,
+        "bronze": 36
+      },
+      {
+        "pays": "Netherlands",
+        "or": 23,
+        "argent": 21,
+        "bronze": 21
+      },
+      {
+        "pays": "Great Britain",
+        "or": 22,
+        "argent": 37,
+        "bronze": 33
+      }
+    ]
+  },
+  {
+    "discipline": "Synchronized Swimming",
+    "repartition": [
+      {
+        "pays": "Russia",
+        "or": 10,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "United States of America",
+        "or": 5,
+        "argent": 3,
+        "bronze": 2
+      },
+      {
+        "pays": "Canada",
+        "or": 3,
+        "argent": 4,
+        "bronze": 1
+      },
+      {
+        "pays": "China",
+        "or": 2,
+        "argent": 5,
+        "bronze": 2
+      },
+      {
+        "pays": "Russian Olympic Commitee",
+        "or": 2,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Japan",
+        "or": 0,
+        "argent": 4,
+        "bronze": 10
+      },
+      {
+        "pays": "Spain",
+        "or": 0,
+        "argent": 3,
+        "bronze": 2
+      },
+      {
+        "pays": "Great Britain",
+        "or": 0,
+        "argent": 1,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "discipline": "Table Tennis",
+    "repartition": [
+      {
+        "pays": "China",
+        "or": 37,
+        "argent": 21,
+        "bronze": 8
+      },
+      {
+        "pays": "South Korea",
+        "or": 3,
+        "argent": 3,
+        "bronze": 14
+      },
+      {
+        "pays": "Japan",
+        "or": 1,
+        "argent": 4,
+        "bronze": 5
+      },
+      {
+        "pays": "Sweden",
+        "or": 1,
+        "argent": 3,
+        "bronze": 1
+      },
+      {
+        "pays": "Germany",
+        "or": 0,
+        "argent": 4,
+        "bronze": 5
+      },
+      {
+        "pays": "North Korea",
+        "or": 0,
+        "argent": 2,
+        "bronze": 3
+      },
+      {
+        "pays": "France",
+        "or": 0,
+        "argent": 1,
+        "bronze": 3
+      },
+      {
+        "pays": "Chinese Taipei",
+        "or": 0,
+        "argent": 1,
+        "bronze": 2
+      }
+    ]
+  },
+  {
+    "discipline": "Taekwondo",
+    "repartition": [
+      {
+        "pays": "South Korea",
+        "or": 14,
+        "argent": 3,
+        "bronze": 8
+      },
+      {
+        "pays": "China",
+        "or": 7,
+        "argent": 2,
+        "bronze": 4
+      },
+      {
+        "pays": "Iran",
+        "or": 3,
+        "argent": 3,
+        "bronze": 4
+      },
+      {
+        "pays": "United States of America",
+        "or": 3,
+        "argent": 2,
+        "bronze": 6
+      },
+      {
+        "pays": "Great Britain",
+        "or": 2,
+        "argent": 4,
+        "bronze": 4
+      },
+      {
+        "pays": "Mexico",
+        "or": 2,
+        "argent": 2,
+        "bronze": 3
+      },
+      {
+        "pays": "Thailand",
+        "or": 2,
+        "argent": 2,
+        "bronze": 3
+      },
+      {
+        "pays": "Serbia",
+        "or": 2,
+        "argent": 2,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "discipline": "Tennis",
+    "repartition": [
+      {
+        "pays": "United States of America",
+        "or": 21,
+        "argent": 7,
+        "bronze": 13
+      },
+      {
+        "pays": "Great Britain",
+        "or": 16,
+        "argent": 14,
+        "bronze": 12
+      },
+      {
+        "pays": "France",
+        "or": 8,
+        "argent": 7,
+        "bronze": 8
+      },
+      {
+        "pays": "Germany",
+        "or": 4,
+        "argent": 6,
+        "bronze": 3
+      },
+      {
+        "pays": "Russia",
+        "or": 3,
+        "argent": 3,
+        "bronze": 4
+      },
+      {
+        "pays": "Switzerland",
+        "or": 3,
+        "argent": 3,
+        "bronze": 0
+      },
+      {
+        "pays": "South Africa",
+        "or": 3,
+        "argent": 2,
+        "bronze": 1
+      },
+      {
+        "pays": "Spain",
+        "or": 2,
+        "argent": 8,
+        "bronze": 5
+      }
+    ]
+  },
+  {
+    "discipline": "Trampolining",
+    "repartition": [
+      {
+        "pays": "China",
+        "or": 4,
+        "argent": 5,
+        "bronze": 7
+      },
+      {
+        "pays": "Canada",
+        "or": 2,
+        "argent": 3,
+        "bronze": 3
+      },
+      {
+        "pays": "Russia",
+        "or": 2,
+        "argent": 2,
+        "bronze": 0
+      },
+      {
+        "pays": "Belarus",
+        "or": 2,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Great Britain",
+        "or": 1,
+        "argent": 1,
+        "bronze": 1
+      },
+      {
+        "pays": "Individual Neutral Athletes",
+        "or": 1,
+        "argent": 1,
+        "bronze": 0
+      },
+      {
+        "pays": "Ukraine",
+        "or": 1,
+        "argent": 1,
+        "bronze": 0
+      },
+      {
+        "pays": "Germany",
+        "or": 1,
+        "argent": 0,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "discipline": "Triathlon",
+    "repartition": [
+      {
+        "pays": "Great Britain",
+        "or": 4,
+        "argent": 3,
+        "bronze": 4
+      },
+      {
+        "pays": "Switzerland",
+        "or": 2,
+        "argent": 2,
+        "bronze": 2
+      },
+      {
+        "pays": "Germany",
+        "or": 2,
+        "argent": 1,
+        "bronze": 0
+      },
+      {
+        "pays": "Australia",
+        "or": 1,
+        "argent": 2,
+        "bronze": 2
+      },
+      {
+        "pays": "New Zealand",
+        "or": 1,
+        "argent": 2,
+        "bronze": 2
+      },
+      {
+        "pays": "United States of America",
+        "or": 1,
+        "argent": 2,
+        "bronze": 2
+      },
+      {
+        "pays": "Canada",
+        "or": 1,
+        "argent": 1,
+        "bronze": 0
+      },
+      {
+        "pays": "France",
+        "or": 1,
+        "argent": 0,
+        "bronze": 2
+      }
+    ]
+  },
+  {
+    "discipline": "Tug of war",
+    "repartition": [
+      {
+        "pays": "Great Britain",
+        "or": 2,
+        "argent": 2,
+        "bronze": 1
+      },
+      {
+        "pays": "United States of America",
+        "or": 1,
+        "argent": 1,
+        "bronze": 0
+      },
+      {
+        "pays": "Sweden",
+        "or": 1,
+        "argent": 0,
+        "bronze": 1
+      },
+      {
+        "pays": "Germany",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Sweden / Denmark",
+        "or": 1,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "France",
+        "or": 0,
+        "argent": 1,
+        "bronze": 0
+      },
+      {
+        "pays": "Greece",
+        "or": 0,
+        "argent": 1,
+        "bronze": 0
+      },
+      {
+        "pays": "Netherlands",
+        "or": 0,
+        "argent": 1,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "discipline": "Volleyball",
+    "repartition": [
+      {
+        "pays": "Russia",
+        "or": 8,
+        "argent": 8,
+        "bronze": 3
+      },
+      {
+        "pays": "Brazil",
+        "or": 5,
+        "argent": 4,
+        "bronze": 3
+      },
+      {
+        "pays": "United States of America",
+        "or": 4,
+        "argent": 4,
+        "bronze": 5
+      },
+      {
+        "pays": "Japan",
+        "or": 3,
+        "argent": 3,
+        "bronze": 3
+      },
+      {
+        "pays": "China",
+        "or": 3,
+        "argent": 1,
+        "bronze": 2
+      },
+      {
+        "pays": "Cuba",
+        "or": 3,
+        "argent": 0,
+        "bronze": 2
+      },
+      {
+        "pays": "France",
+        "or": 2,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Italy",
+        "or": 1,
+        "argent": 3,
+        "bronze": 3
+      }
+    ]
+  },
+  {
+    "discipline": "Water Polo",
+    "repartition": [
+      {
+        "pays": "Hungary",
+        "or": 9,
+        "argent": 3,
+        "bronze": 5
+      },
+      {
+        "pays": "United States of America",
+        "or": 4,
+        "argent": 6,
+        "bronze": 6
+      },
+      {
+        "pays": "Italy",
+        "or": 4,
+        "argent": 3,
+        "bronze": 3
+      },
+      {
+        "pays": "Great Britain",
+        "or": 4,
+        "argent": 0,
+        "bronze": 0
+      },
+      {
+        "pays": "Yugoslavia",
+        "or": 3,
+        "argent": 4,
+        "bronze": 1
+      },
+      {
+        "pays": "Serbia",
+        "or": 3,
+        "argent": 0,
+        "bronze": 2
+      },
+      {
+        "pays": "Russia",
+        "or": 2,
+        "argent": 3,
+        "bronze": 7
+      },
+      {
+        "pays": "Spain",
+        "or": 2,
+        "argent": 3,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "discipline": "Weightlifting",
+    "repartition": [
+      {
+        "pays": "Russia",
+        "or": 48,
+        "argent": 32,
+        "bronze": 8
+      },
+      {
+        "pays": "China",
+        "or": 43,
+        "argent": 16,
+        "bronze": 8
+      },
+      {
+        "pays": "United States of America",
+        "or": 17,
+        "argent": 17,
+        "bronze": 12
+      },
+      {
+        "pays": "Bulgaria",
+        "or": 13,
+        "argent": 17,
+        "bronze": 9
+      },
+      {
+        "pays": "Germany",
+        "or": 9,
+        "argent": 13,
+        "bronze": 21
+      },
+      {
+        "pays": "Iran",
+        "or": 9,
+        "argent": 7,
+        "bronze": 5
+      },
+      {
+        "pays": "France",
+        "or": 9,
+        "argent": 3,
+        "bronze": 4
+      },
+      {
+        "pays": "Turkey",
+        "or": 8,
+        "argent": 1,
+        "bronze": 2
+      }
+    ]
+  },
+  {
+    "discipline": "Wrestling",
+    "repartition": [
+      {
+        "pays": "Russia",
+        "or": 99,
+        "argent": 51,
+        "bronze": 42
+      },
+      {
+        "pays": "United States of America",
+        "or": 59,
+        "argent": 46,
+        "bronze": 43
+      },
+      {
+        "pays": "Japan",
+        "or": 45,
+        "argent": 23,
+        "bronze": 19
+      },
+      {
+        "pays": "Turkey",
+        "or": 29,
+        "argent": 18,
+        "bronze": 21
+      },
+      {
+        "pays": "Sweden",
+        "or": 28,
+        "argent": 27,
+        "bronze": 31
+      },
+      {
+        "pays": "Finland",
+        "or": 27,
+        "argent": 29,
+        "bronze": 29
+      },
+      {
+        "pays": "Hungary",
+        "or": 20,
+        "argent": 17,
+        "bronze": 20
+      },
+      {
+        "pays": "Bulgaria",
+        "or": 18,
+        "argent": 32,
+        "bronze": 23
+      }
+    ]
+  }
+]

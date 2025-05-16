@@ -1,0 +1,1066 @@
+[
+  {
+    "hc-key": "af",
+    "name": "Afghanistan",
+    "value": 2,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 2
+  },
+  {
+    "hc-key": "al",
+    "name": "Albania",
+    "value": 2,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 2
+  },
+  {
+    "hc-key": "dz",
+    "name": "Algeria",
+    "value": 20,
+    "gold": 7,
+    "silver": 4,
+    "bronze": 9
+  },
+  {
+    "hc-key": "ar",
+    "name": "Argentina",
+    "value": 80,
+    "gold": 22,
+    "silver": 27,
+    "bronze": 31
+  },
+  {
+    "hc-key": "am",
+    "name": "Armenia",
+    "value": 22,
+    "gold": 2,
+    "silver": 11,
+    "bronze": 9
+  },
+  {
+    "hc-key": "au",
+    "name": "Australia",
+    "value": 618,
+    "gold": 188,
+    "silver": 196,
+    "bronze": 234
+  },
+  {
+    "hc-key": "at",
+    "name": "Austria",
+    "value": 360,
+    "gold": 96,
+    "silver": 126,
+    "bronze": 138
+  },
+  {
+    "hc-key": "az",
+    "name": "Azerbaijan",
+    "value": 57,
+    "gold": 9,
+    "silver": 17,
+    "bronze": 31
+  },
+  {
+    "hc-key": "bs",
+    "name": "Bahamas",
+    "value": 16,
+    "gold": 8,
+    "silver": 2,
+    "bronze": 6
+  },
+  {
+    "hc-key": "bh",
+    "name": "Bahrain",
+    "value": 8,
+    "gold": 4,
+    "silver": 3,
+    "bronze": 1
+  },
+  {
+    "hc-key": "bb",
+    "name": "Barbados",
+    "value": 1,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  {
+    "hc-key": "by",
+    "name": "Belarus",
+    "value": 105,
+    "gold": 21,
+    "silver": 37,
+    "bronze": 47
+  },
+  {
+    "hc-key": "be",
+    "name": "Belgium",
+    "value": 180,
+    "gold": 50,
+    "silver": 59,
+    "bronze": 71
+  },
+  {
+    "hc-key": "bm",
+    "name": "Bermuda",
+    "value": 2,
+    "gold": 1,
+    "silver": 0,
+    "bronze": 1
+  },
+  {
+    "hc-key": "bw",
+    "name": "Botswana",
+    "value": 4,
+    "gold": 1,
+    "silver": 2,
+    "bronze": 1
+  },
+  {
+    "hc-key": "br",
+    "name": "Brazil",
+    "value": 169,
+    "gold": 40,
+    "silver": 49,
+    "bronze": 80
+  },
+  {
+    "hc-key": "bg",
+    "name": "Bulgaria",
+    "value": 237,
+    "gold": 58,
+    "silver": 91,
+    "bronze": 88
+  },
+  {
+    "hc-key": "bi",
+    "name": "Burundi",
+    "value": 2,
+    "gold": 1,
+    "silver": 1,
+    "bronze": 0
+  },
+  {
+    "hc-key": "cm",
+    "name": "Cameroon",
+    "value": 6,
+    "gold": 3,
+    "silver": 1,
+    "bronze": 2
+  },
+  {
+    "hc-key": "ca",
+    "name": "Canada",
+    "value": 580,
+    "gold": 158,
+    "silver": 190,
+    "bronze": 232
+  },
+  {
+    "hc-key": "cl",
+    "name": "Chile",
+    "value": 15,
+    "gold": 3,
+    "silver": 8,
+    "bronze": 4
+  },
+  {
+    "hc-key": "cn",
+    "name": "China",
+    "value": 804,
+    "gold": 325,
+    "silver": 258,
+    "bronze": 221
+  },
+  {
+    "hc-key": "cr",
+    "name": "Costa Rica",
+    "value": 4,
+    "gold": 1,
+    "silver": 1,
+    "bronze": 2
+  },
+  {
+    "hc-key": "ci",
+    "name": "Cote d´Ivoire",
+    "value": 5,
+    "gold": 1,
+    "silver": 1,
+    "bronze": 3
+  },
+  {
+    "hc-key": "hr",
+    "name": "Croatia",
+    "value": 59,
+    "gold": 20,
+    "silver": 21,
+    "bronze": 18
+  },
+  {
+    "hc-key": "cu",
+    "name": "Cuba",
+    "value": 242,
+    "gold": 86,
+    "silver": 70,
+    "bronze": 86
+  },
+  {
+    "hc-key": "cy",
+    "name": "Cyprus",
+    "value": 2,
+    "gold": 0,
+    "silver": 2,
+    "bronze": 0
+  },
+  {
+    "hc-key": "cz",
+    "name": "Czech Republic",
+    "value": 106,
+    "gold": 32,
+    "silver": 33,
+    "bronze": 41
+  },
+  {
+    "hc-key": "dk",
+    "name": "Denmark",
+    "value": 221,
+    "gold": 53,
+    "silver": 83,
+    "bronze": 85
+  },
+  {
+    "hc-key": "dj",
+    "name": "Djibouti",
+    "value": 1,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  {
+    "hc-key": "do",
+    "name": "Dominican Republic",
+    "value": 15,
+    "gold": 4,
+    "silver": 5,
+    "bronze": 6
+  },
+  {
+    "hc-key": "ec",
+    "name": "Ecuador",
+    "value": 10,
+    "gold": 4,
+    "silver": 4,
+    "bronze": 2
+  },
+  {
+    "hc-key": "eg",
+    "name": "Egypt",
+    "value": 41,
+    "gold": 9,
+    "silver": 12,
+    "bronze": 20
+  },
+  {
+    "hc-key": "er",
+    "name": "Eritrea",
+    "value": 1,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  {
+    "hc-key": "ee",
+    "name": "Estonia",
+    "value": 45,
+    "gold": 14,
+    "silver": 11,
+    "bronze": 20
+  },
+  {
+    "hc-key": "et",
+    "name": "Ethiopia",
+    "value": 62,
+    "gold": 24,
+    "silver": 15,
+    "bronze": 23
+  },
+  {
+    "hc-key": "de",
+    "name": "Federal Republic of Germany",
+    "value": 243,
+    "gold": 67,
+    "silver": 82,
+    "bronze": 94
+  },
+  {
+    "hc-key": "fj",
+    "name": "Fiji",
+    "value": 4,
+    "gold": 2,
+    "silver": 1,
+    "bronze": 1
+  },
+  {
+    "hc-key": "fi",
+    "name": "Finland",
+    "value": 484,
+    "gold": 148,
+    "silver": 151,
+    "bronze": 185
+  },
+  {
+    "hc-key": "fr",
+    "name": "France",
+    "value": 991,
+    "gold": 295,
+    "silver": 328,
+    "bronze": 368
+  },
+  {
+    "hc-key": "ga",
+    "name": "Gabon",
+    "value": 1,
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0
+  },
+  {
+    "hc-key": "ge",
+    "name": "Georgia",
+    "value": 48,
+    "gold": 13,
+    "silver": 15,
+    "bronze": 20
+  },
+  {
+    "hc-key": "de",
+    "name": "Germany",
+    "value": 1108,
+    "gold": 358,
+    "silver": 382,
+    "bronze": 368
+  },
+  {
+    "hc-key": "gh",
+    "name": "Ghana",
+    "value": 5,
+    "gold": 0,
+    "silver": 1,
+    "bronze": 4
+  },
+  {
+    "hc-key": "gb",
+    "name": "Great Britain",
+    "value": 1036,
+    "gold": 317,
+    "silver": 353,
+    "bronze": 366
+  },
+  {
+    "hc-key": "gr",
+    "name": "Greece",
+    "value": 162,
+    "gold": 44,
+    "silver": 59,
+    "bronze": 59
+  },
+  {
+    "hc-key": "gd",
+    "name": "Grenada",
+    "value": 5,
+    "gold": 1,
+    "silver": 1,
+    "bronze": 3
+  },
+  {
+    "hc-key": "gt",
+    "name": "Guatemala",
+    "value": 3,
+    "gold": 1,
+    "silver": 1,
+    "bronze": 1
+  },
+  {
+    "hc-key": "gy",
+    "name": "Guyana",
+    "value": 1,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  {
+    "hc-key": "ht",
+    "name": "Haiti",
+    "value": 2,
+    "gold": 0,
+    "silver": 1,
+    "bronze": 1
+  },
+  {
+    "hc-key": "hk",
+    "name": "Hong Kong",
+    "value": 13,
+    "gold": 4,
+    "silver": 3,
+    "bronze": 6
+  },
+  {
+    "hc-key": "hu",
+    "name": "Hungary",
+    "value": 550,
+    "gold": 191,
+    "silver": 168,
+    "bronze": 191
+  },
+  {
+    "hc-key": "is",
+    "name": "Iceland",
+    "value": 4,
+    "gold": 0,
+    "silver": 2,
+    "bronze": 2
+  },
+  {
+    "hc-key": "in",
+    "name": "India",
+    "value": 41,
+    "gold": 10,
+    "silver": 10,
+    "bronze": 21
+  },
+  {
+    "hc-key": "id",
+    "name": "Indonesia",
+    "value": 40,
+    "gold": 10,
+    "silver": 14,
+    "bronze": 16
+  },
+  {
+    "hc-key": "ir",
+    "name": "Iran",
+    "value": 89,
+    "gold": 27,
+    "silver": 30,
+    "bronze": 32
+  },
+  {
+    "hc-key": "iq",
+    "name": "Iraq",
+    "value": 1,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  {
+    "hc-key": "ie",
+    "name": "Ireland",
+    "value": 42,
+    "gold": 15,
+    "silver": 10,
+    "bronze": 17
+  },
+  {
+    "hc-key": "il",
+    "name": "Israel",
+    "value": 20,
+    "gold": 4,
+    "silver": 6,
+    "bronze": 10
+  },
+  {
+    "hc-key": "it",
+    "name": "Italy",
+    "value": 814,
+    "gold": 277,
+    "silver": 250,
+    "bronze": 287
+  },
+  {
+    "hc-key": "jm",
+    "name": "Jamaica",
+    "value": 94,
+    "gold": 27,
+    "silver": 39,
+    "bronze": 28
+  },
+  {
+    "hc-key": "jp",
+    "name": "Japan",
+    "value": 616,
+    "gold": 205,
+    "silver": 190,
+    "bronze": 221
+  },
+  {
+    "hc-key": "jo",
+    "name": "Jordan",
+    "value": 4,
+    "gold": 1,
+    "silver": 2,
+    "bronze": 1
+  },
+  {
+    "hc-key": "kz",
+    "name": "Kazakhstan",
+    "value": 84,
+    "gold": 16,
+    "silver": 26,
+    "bronze": 42
+  },
+  {
+    "hc-key": "ke",
+    "name": "Kenya",
+    "value": 124,
+    "gold": 39,
+    "silver": 44,
+    "bronze": 41
+  },
+  {
+    "hc-key": "kw",
+    "name": "Kuwait",
+    "value": 3,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 3
+  },
+  {
+    "hc-key": "lv",
+    "name": "Latvia",
+    "value": 30,
+    "gold": 5,
+    "silver": 14,
+    "bronze": 11
+  },
+  {
+    "hc-key": "lb",
+    "name": "Lebanon",
+    "value": 4,
+    "gold": 0,
+    "silver": 2,
+    "bronze": 2
+  },
+  {
+    "hc-key": "li",
+    "name": "Liechtenstein",
+    "value": 10,
+    "gold": 2,
+    "silver": 2,
+    "bronze": 6
+  },
+  {
+    "hc-key": "lt",
+    "name": "Lithuania",
+    "value": 29,
+    "gold": 6,
+    "silver": 8,
+    "bronze": 15
+  },
+  {
+    "hc-key": "lu",
+    "name": "Luxembourg",
+    "value": 4,
+    "gold": 1,
+    "silver": 3,
+    "bronze": 0
+  },
+  {
+    "hc-key": "my",
+    "name": "Malaysia",
+    "value": 15,
+    "gold": 0,
+    "silver": 8,
+    "bronze": 7
+  },
+  {
+    "hc-key": "mu",
+    "name": "Mauritius",
+    "value": 1,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  {
+    "hc-key": "mx",
+    "name": "Mexico",
+    "value": 77,
+    "gold": 13,
+    "silver": 27,
+    "bronze": 37
+  },
+  {
+    "hc-key": "md",
+    "name": "Moldova",
+    "value": 10,
+    "gold": 0,
+    "silver": 3,
+    "bronze": 7
+  },
+  {
+    "hc-key": "mn",
+    "name": "Mongolia",
+    "value": 31,
+    "gold": 2,
+    "silver": 12,
+    "bronze": 17
+  },
+  {
+    "hc-key": "me",
+    "name": "Montenegro",
+    "value": 1,
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0
+  },
+  {
+    "hc-key": "ma",
+    "name": "Morocco",
+    "value": 26,
+    "gold": 8,
+    "silver": 5,
+    "bronze": 13
+  },
+  {
+    "hc-key": "mz",
+    "name": "Mozambique",
+    "value": 2,
+    "gold": 1,
+    "silver": 0,
+    "bronze": 1
+  },
+  {
+    "hc-key": "na",
+    "name": "Namibia",
+    "value": 5,
+    "gold": 0,
+    "silver": 5,
+    "bronze": 0
+  },
+  {
+    "hc-key": "nl",
+    "name": "Netherlands",
+    "value": 506,
+    "gold": 163,
+    "silver": 162,
+    "bronze": 181
+  },
+  {
+    "hc-key": "nz",
+    "name": "New Zealand",
+    "value": 163,
+    "gold": 65,
+    "silver": 42,
+    "bronze": 56
+  },
+  {
+    "hc-key": "ne",
+    "name": "Niger",
+    "value": 2,
+    "gold": 0,
+    "silver": 1,
+    "bronze": 1
+  },
+  {
+    "hc-key": "ng",
+    "name": "Nigeria",
+    "value": 27,
+    "gold": 3,
+    "silver": 11,
+    "bronze": 13
+  },
+  {
+    "hc-key": "kp",
+    "name": "North Korea",
+    "value": 63,
+    "gold": 16,
+    "silver": 19,
+    "bronze": 28
+  },
+  {
+    "hc-key": "no",
+    "name": "Norway",
+    "value": 576,
+    "gold": 212,
+    "silver": 188,
+    "bronze": 176
+  },
+  {
+    "hc-key": "pk",
+    "name": "Pakistan",
+    "value": 11,
+    "gold": 4,
+    "silver": 3,
+    "bronze": 4
+  },
+  {
+    "hc-key": "pa",
+    "name": "Panama",
+    "value": 4,
+    "gold": 1,
+    "silver": 1,
+    "bronze": 2
+  },
+  {
+    "hc-key": "py",
+    "name": "Paraguay",
+    "value": 1,
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0
+  },
+  {
+    "hc-key": "pe",
+    "name": "Peru",
+    "value": 5,
+    "gold": 1,
+    "silver": 3,
+    "bronze": 1
+  },
+  {
+    "hc-key": "ph",
+    "name": "Philippines",
+    "value": 18,
+    "gold": 3,
+    "silver": 5,
+    "bronze": 10
+  },
+  {
+    "hc-key": "pl",
+    "name": "Poland",
+    "value": 330,
+    "gold": 80,
+    "silver": 99,
+    "bronze": 151
+  },
+  {
+    "hc-key": "pt",
+    "name": "Portugal",
+    "value": 32,
+    "gold": 6,
+    "silver": 11,
+    "bronze": 15
+  },
+  {
+    "hc-key": "pr",
+    "name": "Puerto Rico",
+    "value": 12,
+    "gold": 2,
+    "silver": 2,
+    "bronze": 8
+  },
+  {
+    "hc-key": "qa",
+    "name": "Qatar",
+    "value": 9,
+    "gold": 2,
+    "silver": 2,
+    "bronze": 5
+  },
+  {
+    "hc-key": "ro",
+    "name": "Romania",
+    "value": 319,
+    "gold": 93,
+    "silver": 101,
+    "bronze": 125
+  },
+  {
+    "hc-key": "ru",
+    "name": "Russia",
+    "value": 553,
+    "gold": 194,
+    "silver": 170,
+    "bronze": 189
+  },
+  {
+    "hc-key": "lc",
+    "name": "Saint Lucia",
+    "value": 2,
+    "gold": 1,
+    "silver": 1,
+    "bronze": 0
+  },
+  {
+    "hc-key": "ws",
+    "name": "Samoa",
+    "value": 1,
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0
+  },
+  {
+    "hc-key": "sm",
+    "name": "San Marino",
+    "value": 3,
+    "gold": 0,
+    "silver": 1,
+    "bronze": 2
+  },
+  {
+    "hc-key": "sa",
+    "name": "Saudi Arabia",
+    "value": 4,
+    "gold": 0,
+    "silver": 2,
+    "bronze": 2
+  },
+  {
+    "hc-key": "sn",
+    "name": "Senegal",
+    "value": 1,
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0
+  },
+  {
+    "hc-key": "rs",
+    "name": "Serbia",
+    "value": 29,
+    "gold": 9,
+    "silver": 8,
+    "bronze": 12
+  },
+  {
+    "hc-key": "sg",
+    "name": "Singapore",
+    "value": 6,
+    "gold": 1,
+    "silver": 2,
+    "bronze": 3
+  },
+  {
+    "hc-key": "sk",
+    "name": "Slovakia",
+    "value": 43,
+    "gold": 14,
+    "silver": 18,
+    "bronze": 11
+  },
+  {
+    "hc-key": "si",
+    "name": "Slovenia",
+    "value": 55,
+    "gold": 14,
+    "silver": 18,
+    "bronze": 23
+  },
+  {
+    "hc-key": "za",
+    "name": "South Africa",
+    "value": 95,
+    "gold": 28,
+    "silver": 36,
+    "bronze": 31
+  },
+  {
+    "hc-key": "kr",
+    "name": "South Korea",
+    "value": 399,
+    "gold": 142,
+    "silver": 130,
+    "bronze": 127
+  },
+  {
+    "hc-key": "es",
+    "name": "Spain",
+    "value": 191,
+    "gold": 54,
+    "silver": 77,
+    "bronze": 60
+  },
+  {
+    "hc-key": "lk",
+    "name": "Sri Lanka",
+    "value": 2,
+    "gold": 0,
+    "silver": 2,
+    "bronze": 0
+  },
+  {
+    "hc-key": "sd",
+    "name": "Sudan",
+    "value": 1,
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0
+  },
+  {
+    "hc-key": "sr",
+    "name": "Suriname",
+    "value": 2,
+    "gold": 1,
+    "silver": 0,
+    "bronze": 1
+  },
+  {
+    "hc-key": "se",
+    "name": "Sweden",
+    "value": 704,
+    "gold": 218,
+    "silver": 237,
+    "bronze": 249
+  },
+  {
+    "hc-key": "ch",
+    "name": "Switzerland",
+    "value": 391,
+    "gold": 123,
+    "silver": 131,
+    "bronze": 137
+  },
+  {
+    "hc-key": "sy",
+    "name": "Syria",
+    "value": 4,
+    "gold": 1,
+    "silver": 1,
+    "bronze": 2
+  },
+  {
+    "hc-key": "tj",
+    "name": "Tajikistan",
+    "value": 7,
+    "gold": 1,
+    "silver": 1,
+    "bronze": 5
+  },
+  {
+    "hc-key": "tz",
+    "name": "Tanzania",
+    "value": 2,
+    "gold": 0,
+    "silver": 2,
+    "bronze": 0
+  },
+  {
+    "hc-key": "th",
+    "name": "Thailand",
+    "value": 41,
+    "gold": 11,
+    "silver": 11,
+    "bronze": 19
+  },
+  {
+    "hc-key": "tg",
+    "name": "Togo",
+    "value": 1,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  {
+    "hc-key": "to",
+    "name": "Tonga",
+    "value": 1,
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0
+  },
+  {
+    "hc-key": "tn",
+    "name": "Tunisia",
+    "value": 17,
+    "gold": 5,
+    "silver": 4,
+    "bronze": 8
+  },
+  {
+    "hc-key": "tr",
+    "name": "Turkey",
+    "value": 112,
+    "gold": 42,
+    "silver": 29,
+    "bronze": 41
+  },
+  {
+    "hc-key": "tm",
+    "name": "Turkmenistan",
+    "value": 1,
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0
+  },
+  {
+    "hc-key": "ug",
+    "name": "Uganda",
+    "value": 13,
+    "gold": 5,
+    "silver": 5,
+    "bronze": 3
+  },
+  {
+    "hc-key": "ua",
+    "name": "Ukraine",
+    "value": 160,
+    "gold": 41,
+    "silver": 43,
+    "bronze": 76
+  },
+  {
+    "hc-key": "ae",
+    "name": "United Arab Emirates",
+    "value": 2,
+    "gold": 1,
+    "silver": 0,
+    "bronze": 1
+  },
+  {
+    "hc-key": "us",
+    "name": "United States of America",
+    "value": 3114,
+    "gold": 1228,
+    "silver": 1004,
+    "bronze": 882
+  },
+  {
+    "hc-key": "uy",
+    "name": "Uruguay",
+    "value": 10,
+    "gold": 2,
+    "silver": 2,
+    "bronze": 6
+  },
+  {
+    "hc-key": "uz",
+    "name": "Uzbekistan",
+    "value": 50,
+    "gold": 19,
+    "silver": 8,
+    "bronze": 23
+  },
+  {
+    "hc-key": "ve",
+    "name": "Venezuela",
+    "value": 19,
+    "gold": 3,
+    "silver": 7,
+    "bronze": 9
+  },
+  {
+    "hc-key": "vn",
+    "name": "Vietnam",
+    "value": 5,
+    "gold": 1,
+    "silver": 3,
+    "bronze": 1
+  },
+  {
+    "hc-key": "zm",
+    "name": "Zambia",
+    "value": 3,
+    "gold": 0,
+    "silver": 1,
+    "bronze": 2
+  },
+  {
+    "hc-key": "zw",
+    "name": "Zimbabwe",
+    "value": 8,
+    "gold": 3,
+    "silver": 4,
+    "bronze": 1
+  }
+]

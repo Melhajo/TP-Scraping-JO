@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8" />
+    <title>Tableau de bord - Médailles Olympiques</title>
+    <link rel="stylesheet" href="dashboard.css" />
+    <script src="https://code.highcharts.com/maps/highmaps.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/data.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/accessibility.js"></script>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+</head>
+<body>
+    <div class="nav">
+        <button onclick="afficher('viz1')">🌍 Carte</button>
+        <button onclick="afficher('viz2')">🏆 Top 10</button>
+        <button onclick="afficher('viz3')">🥇 Par sport</button>
+    </div>
+
+    <div id="viz1" class="viz-section">
+        <div id="container1" class="container"></div>
+    </div>
+
+    <div id="viz2" class="viz-section" style="display:none;">
+        <div id="container2" class="container"></div>
+    </div>
+
+    <div id="viz3" class="viz-section" style="display:none;">
+        <div style="text-align: center; margin-top: 20px;">
+            <label for="sportSelect">Choisir un sport : </label>
+            <select id="sportSelect"></select>
+        </div>
+        <div id="container3" class="container"></div>
+    </div>
+
+    <script src="dashboard.js"></script>
+</body>
+</html>

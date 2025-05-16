@@ -1,0 +1,45 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f6f6f6;
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+    padding: 10px;
+}
+
+.nav button {
+    background-color: #fff;
+    color: #333;
+    border: none;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.nav button:hover {
+    background-color: #ddd;
+}
+
+.container {
+    height: 500px;
+    max-width: 1000px;
+    margin: 40px auto;
+}
+
+.highcharts-description {
+    text-align: center;
+    margin-top: 10px;
+}
+
+select {
+    font-size: 16px;
+    padding: 5px;
+}
